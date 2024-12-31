@@ -2,7 +2,7 @@
 
 Nama saya Syahrul Ramadhan, saya kuliah di universitas muhammadiyah makassar jurusan informatika. saya tinggal di Perumahan Subsidi Faktultas Teknik UNHAS Gowa. saya hobi bermain Badminton,Saya bergabung di organisasi coconut computer club pada tahun 2023 .
 
-<img src="https://imgs.search.brave.com/8WzAQKpcW4NSWJr0D-LQwqa656I4mvoZTio2Ee9bqmA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTEuZ2lwaHkuY29t/L21lZGlhL1lUYlp6/Q2tSUUNFSmEvMjAw/LmdpZj9jaWQ9Nzkw/Yjc2MTEyOXZrdHJ0/b2x4eWhkbHVndmpz/ZDYzYnJpNHR5cHpz/MnN2M2RmNDlnJmVw/PXYxX2dpZnNfdHJl/bmRpbmcmcmlkPTIw/MC5naWYmY3Q9Zw.gif" >
+<img src="https://imgs.search.brave.com/hw7Mji48GMjyEUz-GB4xT3yyG10WmAtZWR5F_GACR-Q/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzExMTc3/NzAvc2NyZWVuc2hv/dHMvMjYyNjYyNi9t/ZWRpYS85M2ExZDlm/YzljYzRhOGRhMDg3/MTc2M2Y0Zjg0YmM0/ZS5naWY.jpeg" >
 
 
 - 🔭 I’m currently working with many [organizations](https://coconut.or.id/contact)
